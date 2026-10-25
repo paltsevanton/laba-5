@@ -16,6 +16,6 @@ for i in a:
         b += B[c]
     else:
         b += i
-    
-print(a)
-print(b)
+
+print('Исходная строка:', a)
+print('Преобразованная строка:', b)
